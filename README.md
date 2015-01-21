@@ -10,3 +10,4 @@ Arduino UNO
 Arduino Mega ADK
 Arduino Mega 2560
 
+using StandardFirmata.ino Example
